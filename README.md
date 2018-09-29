@@ -22,3 +22,8 @@
   爬取东方财富股票列表和百度股票信息--
   
   增加显示保存进度，修改获取网页编码方式赋值 （2的版本的升级版）
+
+5.[biqubook.py](https://github.com/axianga/python/blob/master/biqubook.py)     (by axiang in 2018.9.29)
+
+ 笔趣网上的小说爬取保存--
+ 
