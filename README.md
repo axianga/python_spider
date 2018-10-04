@@ -34,3 +34,7 @@
 6.[biqukanchapter.py](https://github.com/axianga/python/blob/master/biqukanchapter.py)     (by axiang in 2018.10.1)
 
  笔趣网上的小说爬取每章章节名字和链接爬取保存--
+
+6.[biqukananovel.py](https://github.com/axianga/python/blob/master/biqukananovel.py)     (by axiang in 2018.10.4)
+
+ 笔趣网上爬取小说的内容，节省时间给a\[15:18\]赋值，只爬取了三章。同理可以爬取想要的章节内容--
