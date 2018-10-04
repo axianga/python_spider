@@ -29,5 +29,8 @@
 
 5.[biqukanword.py](https://github.com/axianga/python/blob/master/biqukanword.py)     (by axiang in 2018.9.29)
 
- 笔趣网上的小说爬取保存--
+ 笔趣网上的小说单章正文爬取保存--
  
+6.[biqukanchapter.py](https://github.com/axianga/python/blob/master/biqukanchapter.py)     (by axiang in 2018.10.1)
+
+ 笔趣网上的小说爬取每章章节名字和链接爬取保存--
