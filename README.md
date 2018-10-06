@@ -39,6 +39,6 @@
 
  笔趣网上爬取小说的内容，节省时间给a\[15:18]赋值，只爬取了三章。同理可以爬取想要的章节内容--
 
-8.[BDWKdownload.py](https://github.com/axianga/python/blob/master/BDWKdown.py)     (by axiang in 2018.10.6)
+8.[BDWKdownload.py](https://github.com/axianga/python/blob/master/BDWKdownload.py)     (by axiang in 2018.10.6)
 
  输入百度文库的URL，保存到该py文件同目录下，图片格式保存到图片文件夹，文档保存为文档--
