@@ -50,3 +50,12 @@
  -通过对抓包工具FIddler的使用，对js文件进行抓取评论URL地址，打开URL发现文字评论段是Unicode编码，也可以通过浏览器开发者模式看，在python中对UNICODe解读，证实是评论内容。页面关系也有相应的URL对应。
  
  
+10.[qsbkscrapy1](https://github.com/axianga/python/blob/master/qsbkscrapy1)     (by axiang in 2018.11.6)
+
+ -接触scrapy库，使用基础爬虫模板basic，爬取糗事百科的段子及相关网页。
+ 
+ 
+11.[qsbkscrapy2](https://github.com/axianga/python/blob/master/qsbkscrapy2)     (by axiang in 2018.11.6)
+
+ -接触scrapy库，使用基础爬虫模板crawl，爬取糗事百科的段子及相关网页。
+ 
