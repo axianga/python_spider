@@ -59,3 +59,8 @@
 
  -接触scrapy库，使用基础爬虫模板crawl，爬取糗事百科的段子及相关网页。
  
+ 
+12.[tsznscrapy2](https://github.com/axianga/python/blob/master/tsznscrapy1)     (by axiang in 2018.11.8)
+
+ -接触scrapy库，使用基础爬虫模板basic,爬取天善智能课程信息，并保存到txt文件中。
+ 
