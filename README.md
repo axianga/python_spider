@@ -70,3 +70,7 @@
 13.[dblogin](https://github.com/axianga/python/blob/master/dblogin)     (by axiang in 2018.11.11)
 
  -豆瓣模拟登陆scrapy，basic爬虫模板，半自动登陆验证码,爬取登陆后的信息
+ 
+14.[dangdang1](https://github.com/axianga/python/blob/master/dangdang1)     (by axiang in 2018.11.12)
+
+ -当当商城爬取商品信息，scrapy，basic爬虫模板，打印输出。
