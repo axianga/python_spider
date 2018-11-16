@@ -77,6 +77,8 @@
  
  15.[dangdang](https://github.com/axianga/python/blob/master/dangdang)     (by axiang in 2018.11.16)
 
- -当当商城爬取商品信息，scrapy，basic爬虫模板，运用pymysql，将爬取到的数据保存到mysql数据库中，数据库集成环境运用phpstudy，可视化操作采用navicat 
+ -当当商城爬取商品信息，scrapy，basic爬虫模板，运用pymysql，将爬取到的数据保存到mysql数据库中，数据库集成环境运用phpstudy，
+ 
+ 可视化操作采用navicat 
  
  for mysql.
