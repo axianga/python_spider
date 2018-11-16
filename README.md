@@ -2,7 +2,7 @@
 
 ****
 
-**库的使用：/requests/BeautifulSoup/re/os/traceback/urllib/
+**库的使用：/requests/BeautifulSoup/re/os/traceback/urllib/**
 
 **--/scrapy/pymysql/**
 
