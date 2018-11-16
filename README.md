@@ -2,7 +2,9 @@
 
 ****
 
-**库的使用：requests/BeautifulSoup/re/os/traceback/urllib/scrapy/pymysql**
+**库的使用：/requests/BeautifulSoup/re/os/traceback/urllib/
+
+**--/scrapy/pymysql/**
 
 **查看网页源码，查看网络请求。抓包工具Fiddler使用。**
 
