@@ -4,7 +4,7 @@
 
 **库的使用：/requests/BeautifulSoup/re/os/traceback/urllib/**
 
-**--/scrapy/pymysql/**
+**--/scrapy/pymysql/threading/**
 
 **查看网页源码，查看网络请求。抓包工具Fiddler使用。**
 
@@ -84,3 +84,5 @@
    -当当商城爬取商品信息，scrapy，basic爬虫模板，运用pymysql，将爬取到的数据保存到mysql数据库中，
  
    数据库集成环境运用phpstudy，可视化操作采用navicat for mysql.
+
+16.[qsbk_threading.py](https://github.com/axianga/python/blob/master/qsbk_threading.py)     (by axiang in 2018.11.18)
