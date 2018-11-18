@@ -1,14 +1,12 @@
 # python爬虫学习系列  
 
-****
-
 **库的使用：/requests/BeautifulSoup/re/os/traceback/urllib/**
 
 **--/scrapy/pymysql/threading/**
 
-**查看网页源码，查看网络请求。抓包工具Fiddler使用。**
+**准备接触/scrapy-redis/**
 
-**Git简单操作学习，上传到github文件多的时候使用**
+**抓包及处理学习**
 
 ---------------------------------------------------------------
 
