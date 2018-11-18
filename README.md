@@ -48,20 +48,20 @@
 
 9.[txvideocommant.py](https://github.com/axianga/python/blob/master/txvideocommant.py)     (by axiang in 2018.10.24)
 
-    --通过对抓包工具FIddler的使用，对js文件进行抓取评论URL地址，打开URL发现文字评论段是Unicode编码，也可以通过浏览器开发者模式看，
-    --在python中对UNICODe 解读，证实是评论内容。页面关系也有相应的URL对应。
+    --通过对抓包工具FIddler的使用，对js文件进行抓取评论URL地址，打开URL发现文字评论段是Unicode编码，
+    --在python中对Unicode 解读，证实是评论内容。页面关系也有相应的URL对应。
  
 10.[qsbkscrapy1](https://github.com/axianga/python/blob/master/qsbkscrapy1)     (by axiang in 2018.11.6)
 
-    --接触scrapy库，使用基础爬虫模板basic，爬取糗事百科的段子及相关网页。
+    --接触scrapy爬虫框架，使用基础爬虫模板basic，爬取糗事百科的段子及相关网页。
  
 11.[qsbkscrapy2](https://github.com/axianga/python/blob/master/qsbkscrapy2)     (by axiang in 2018.11.6)
 
-    --接触scrapy库，使用基础爬虫模板crawl，爬取糗事百科的段子及相关网页。
+    --接触scrapy爬虫框架，使用基础爬虫模板crawl，爬取糗事百科的段子及相关网页。
  
 12.[tszn1scrapy](https://github.com/axianga/python/blob/master/tszn1scrapy)     (by axiang in 2018.11.8)
 
-    --接触scrapy库，使用基础爬虫模板basic,爬取天善智能课程信息，并保存到txt文件中。
+    --接触scrapy爬虫框架，使用基础爬虫模板basic,爬取天善智能课程信息，并保存到txt文件中。
  
 13.[dblogin](https://github.com/axianga/python/blob/master/dblogin)     (by axiang in 2018.11.11)
 
