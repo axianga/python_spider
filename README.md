@@ -91,8 +91,7 @@
 
    将爬取的内容进行保存，需要分开保存，保存到同一个文件夹会乱码
    
-17.[jd_scrapy_crawl](https://github.com/axianga/python/blob/master/jd_scrapy_crawl)     (by axiang in 2018.11.18)  
-    
+17.[jd_scrapy_crawl](https://github.com/axianga/python/blob/master/jd_scrapy_crawl)     (by axiang in 2018.11.18)   
     --运用scrapy爬虫框架，crawl爬虫模板，爬取jd商城商品页面。爬取商品名字信息、店铺、价格、好评率.
     
     --通过fiddler抓取的好评率、价格，目前价格容易出现问题，暂时不稳定。需要优化。
