@@ -86,3 +86,7 @@
    数据库集成环境运用phpstudy，可视化操作采用navicat for mysql.
 
 16.[qsbk_threading.py](https://github.com/axianga/python/blob/master/qsbk_threading.py)     (by axiang in 2018.11.18)
+
+   --爬取糗事百科的段子,多线程爬取,分成两个线程,一个线程爬取偶数页，一个线程爬取奇数页
+
+   将爬取的内容进行保存，需要分开保存，保存到同一个文件夹会乱码
