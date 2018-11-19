@@ -76,7 +76,7 @@
 
 16.[qsbk_threading.py](https://github.com/axianga/python/blob/master/qsbk_threading.py)     (by axiang in 2018.11.18)
 
-    --爬取糗事百科的段子,多线程爬取,分成两个线程,一个线程爬取偶数页，一个线程爬取奇数页，运用分布库/threading/
+    --爬取糗事百科的段子,多线程爬取,分成两个线程,一个线程爬取偶数页，一个线程爬取奇数页，运用多线程库/threading/
     --将爬取的内容进行保存，需要分开保存，保存到同一个文件夹会乱码。
    
 17.[jd_scrapy_crawl](https://github.com/axianga/python/blob/master/jd_scrapy_crawl)     (by axiang in 2018.11.18)   
