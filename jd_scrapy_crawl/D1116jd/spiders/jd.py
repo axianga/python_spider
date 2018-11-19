@@ -36,7 +36,7 @@ class JdSpider(CrawlSpider):
                 #print(title)
                 #print(shop)
                 #print(shoplink)
-                priceurl = "https://p.3.cn/prices/mgets?callback=jQuery7244950&skuIds=J_" + thisid
+                priceurl = "https://p.3.cn/prices/mgets?callback=jQuery689703&type=1&area=1_72_2799_0&pdtk=&pduid=15423739186521491528917&pdpin=&pin=null&pdbp=0&skuIds=J_" + thisid
                 commenturl = "https://sclub.jd.com/comment/productPageComments.action?callback=fetchJSON_comment98vv4790&productId=" + thisid  + "&score=0&sortType=5&page=0&pageSize=10"
                 #print(priceurl)
                 #print(commenturl)
