@@ -1,10 +1,10 @@
 # python爬虫学习系列  
 
-**库的使用：/requests/BeautifulSoup/re/os/traceback/urllib/**
+**目前接触库：/requests/BeautifulSoup/re/os/traceback/urllib/**
 
-**--/scrapy/pymysql/threading/**
+**--/scrapy/pymysql/threading/**  
 
-**接下来重点** **/scrapy-redis/**  **验证码处理**
+**后期** **/scrapy-redis/**  **验证码处理**
 
 ---------------------------------------------------------------
 
