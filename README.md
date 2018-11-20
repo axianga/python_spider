@@ -86,7 +86,8 @@
  
 18.[changeProxy.py](https://github.com/axianga/python/blob/master/changeProxy.py)     (by axiang in 2018.11.20)   
 
-    --scrapy爬虫框架,代理IP更换，此段功能放在middlewares.py中，并在settings.py中开启DOWNLOADER_MIDDLEWARES，将类名称换为此名称。
+    --scrapy爬虫框架,代理IP更换，此段功能放在middlewares.py中.
+    --需要在settings.py中开启DOWNLOADER_MIDDLEWARES，并将类名称换为此名称。
     --代理ip需要购买，较为可靠，免费的IP效率低。
 
 
