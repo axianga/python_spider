@@ -88,3 +88,12 @@
 
     --scrapy爬虫框架,代理IP更换，此段功能放在middlewares.py中，并在settings.py中开启DOWNLOADER_MIDDLEWARES，将类名称换为此名称。
     --代理ip需要购买，较为可靠，免费的IP效率低。
+
+
+19.[jdmsql1_scrapy_crawl](https://github.com/axianga/python/blob/master/jdmysql1_scrapy_crawl)     (by axiang in 2018.11.20)   
+
+    --运用scrapy爬虫框架，crawl爬虫模板，爬取jd商城商品页面。爬取商品名字信息、店铺、价格、好评率，
+    --通过fiddler抓取的好评率、价格，目前价格容易出现问题，出现不稳定的时候，需要重新抓取，优化链接地址。
+    --将抓取的数据处理优化，保存到MySQL数据库中。
+    
+    
