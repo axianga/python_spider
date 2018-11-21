@@ -44,7 +44,7 @@
 
     --笔趣网上爬取小说的内容，节省时间给a\[15:18]赋值，只爬取了三章。同理可以爬取想要的章节内容。
 
-8.[BDWKdownload.py](https://github.com/axianga/python/blob/master/BDWKdownload.py)     (by axiang in 2018.10.6)
+8.[BDWKdownload.py（借鉴，实用）](https://github.com/axianga/python/blob/master/BDWKdownload.py)  (by axiang in 2018.10.6)
 
     --输入百度文库的URL，保存到该py文件同目录下，图片格式保存到图片文件夹，文档保存为文档。
 
@@ -95,7 +95,7 @@
     --代理ip需要购买，较为可靠，免费的IP效率低。
 
 
-19.[jdmsql1_scrapy_crawl](https://github.com/axianga/python/blob/master/jdmysql1_scrapy_crawl)     (by axiang in 2018.11.20)   
+19.[jdmysql1_scrapy_crawl](https://github.com/axianga/python/blob/master/jdmysql1_scrapy_crawl)     (by axiang in 2018.11.20)   
 
     --运用scrapy爬虫框架，crawl爬虫模板，爬取jd商城商品页面。爬取商品名字信息、店铺、价格、好评率，
     --通过fiddler抓取的好评率、价格，目前价格容易出现问题，出现不稳定的时候，需要重新抓取，优化链接地址。
