@@ -8,11 +8,17 @@
 
 ---------------------------------------------------------------
 
-1.[save-song.py](https://github.com/axianga/python/blob/master/save_song.py)
+1.1.[save-song.py](https://github.com/axianga/python/blob/master/save_song.py)
 (by axiang in 2018.9.3)
 
-    --查找到网页歌曲资源链接信息，并进行保存。
-  
+    --查找到网页歌曲链接，保存音乐到本地。
+    
+
+1.2.[get58pic.py](https://github.com/axianga/python/blob/master/get58pic.py)
+(by axiang in 2018.10.22)
+
+    --查找到图片链接，保存图片到本地。
+      
 2.[stockInfo-easy.py](https://github.com/axianga/python/blob/master/stockInfo-easy.py)     (by axiang in 2018.9.28)
  
     --爬取东方财富股票列表和百度股票信息。
@@ -24,7 +30,7 @@
 4.[stockInfo-easy2.py](https://github.com/axianga/python/blob/master/stockInfo-easy2.py)     (by axiang in 2018.9.29)
 
     --爬取东方财富股票列表和百度股票信息，
-    --增加显示保存进度，修改获取网页编码方式赋值 （2的版本的升级版）。
+    --增加显示保存进度，修改获取网页编码方式赋值 （2号项目的版本的升级优化）。
 
 5.[biqukanword.py](https://github.com/axianga/python/blob/master/biqukanword.py)     (by axiang in 2018.9.29)
 
