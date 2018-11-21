@@ -42,7 +42,7 @@
 
     --输入百度文库的URL，保存到该py文件同目录下，图片格式保存到图片文件夹，文档保存为文档。
 
-9.[txvideocommant.py](https://github.com/axianga/python/blob/master/txvideocommant.py)     (by axiang in 2018.10.24)
+9.[txvideocomment.py](https://github.com/axianga/python/blob/master/txvideocomment.py)     (by axiang in 2018.10.24)
 
     --通过对抓包工具FIddler的使用，对js文件进行抓取评论URL地址，打开URL发现文字评论段是Unicode编码，
     --在python中对Unicode 解读，证实是评论内容。页面关系也有相应的URL对应。
