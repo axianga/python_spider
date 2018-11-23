@@ -102,9 +102,10 @@
     --将抓取的数据处理优化，保存到MySQL数据库中。
     
  
-20.[zhihuuserinfo](https://github.com/axianga/python/blob/master/zhihuuserinfo)     (by axiang in 2018.11.23)   
+20.[zhihuuserinfo](https://github.com/axianga/python/blob/master/zhihuuserinfo/)     (by axiang in 2018.11.23)   
 
     --对zhihu的用户信息爬取,抓取xhr存储的用户信息api，保存到mysql数据库中。
+    --（无代理IP设置，爬到一定程度可能会被ban
     
     
     
