@@ -18,7 +18,7 @@
 
     --查找到图片链接，保存图片到本地。
       
-2.[stockInfo-easy.py](https://github.com/axianga/python/blob/master/stockInfo-easy.py)    （网页源码分析）    
+2.[stockInfo-easy.py](https://github.com/axianga/python/blob/master/stockInfo-easy.py)    （网页源码分析)
 (by axianga in 2018.9.28)
  
     --爬取东方财富股票列表和百度股票信息。
@@ -34,7 +34,7 @@
     --爬取东方财富股票列表和百度股票信息，     
     --增加显示保存进度，修改获取网页编码方式赋值 （2号项目的版本的升级优化）。
 
-5.[biqukanword.py](https://github.com/axianga/python/blob/master/biqukanword.py)     （网页源码分析）      
+5.[biqukanword.py](https://github.com/axianga/python/blob/master/biqukanword.py)     （网页源码分析）
 (by axianga in 2018.9.29)
 
     --笔趣网上的小说单章正文爬取保存。 
