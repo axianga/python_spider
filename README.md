@@ -8,54 +8,53 @@
 
 ---------------------------------------------------------------
 
-1.1.[save-song.py](https://github.com/axianga/python/blob/master/save_song.py)
+1.1.[save-song.py](https://github.com/axianga/python/blob/master/save_song.py)    （需抓包分析）
 (by axiang in 2018.9.3)
 
-    --查找到网页歌曲链接，保存音乐到本地。
+    --通过抓包工具fiddler或浏览器自带抓取到网页歌曲链接，保存音乐到本地。简单抓取原理。
     
-
-1.2.[get58pic.py](https://github.com/axianga/python/blob/master/get58pic.py)
+1.2.[get58pic.py](https://github.com/axianga/python/blob/master/get58pic.py)     （网页源码分析）
 (by axiang in 2018.10.22)
 
     --查找到图片链接，保存图片到本地。
       
 2.[stockInfo-easy.py](https://github.com/axianga/python/blob/master/stockInfo-easy.py)     (by axiang in 2018.9.28)
  
-    --爬取东方财富股票列表和百度股票信息。
+    --爬取东方财富股票列表和百度股票信息。（网页源码分析）
   
 3.[taobaogoodsinfo.py](https://github.com/axianga/python/blob/master/taobaogoodsinfo.py)    (by axiang in 2018.9.25)
 
-    --利用re库打印淘宝商品价格名称信息。
+    --利用re库打印淘宝商品价格名称信息。（网页源码分析）
   
 4.[stockInfo-easy2.py](https://github.com/axianga/python/blob/master/stockInfo-easy2.py)     (by axiang in 2018.9.29)
 
-    --爬取东方财富股票列表和百度股票信息，
+    --爬取东方财富股票列表和百度股票信息，     （网页源码分析）
     --增加显示保存进度，修改获取网页编码方式赋值 （2号项目的版本的升级优化）。
 
 5.[biqukanword.py](https://github.com/axianga/python/blob/master/biqukanword.py)     (by axiang in 2018.9.29)
 
-    --笔趣网上的小说单章正文爬取保存。
+    --笔趣网上的小说单章正文爬取保存。 （网页原阿门分析）
  
 6.[biqukanchapter.py](https://github.com/axianga/python/blob/master/biqukanchapter.py)     (by axiang in 2018.10.1)
 
-    --笔趣网上的小说爬取每章章节名字和链接爬取保存。
+    --笔趣网上的小说爬取每章章节名字和链接爬取保存。（网页源码分析）
 
 7.[biqukananovel.py](https://github.com/axianga/python/blob/master/biqukananovel.py)     (by axiang in 2018.10.4)
 
-    --笔趣网上爬取小说的内容，节省时间给a\[15:18]赋值，只爬取了三章。同理可以爬取想要的章节内容。
+    --笔趣网上爬取小说的内容，节省时间给a\[15:18]赋值，只爬取了三章。同理可以爬取想要的章节内容。（网页源码分析）
 
 8.[BDWKdownload.py（借鉴，实用）](https://github.com/axianga/python/blob/master/BDWKdownload.py)  (by axiang in 2018.10.6)
 
-    --输入百度文库的URL，保存到该py文件同目录下，图片格式保存到图片文件夹，文档保存为文档。
+    --输入百度文库的URL，保存到该py文件同目录下，图片格式保存到图片文件夹，文档保存为文档。（👍）
 
 9.[txvideocomment.py](https://github.com/axianga/python/blob/master/txvideocomment.py)     (by axiang in 2018.10.24)
 
     --通过对抓包工具FIddler的使用，对js文件进行抓取评论URL地址，打开URL发现文字评论段是Unicode编码，
-    --在python中对Unicode 解读，证实是评论内容。页面关系也有相应的URL对应。
+    --在python中对Unicode 解读，证实是评论内容。页面关系也有相应的URL对应。 （抓包分析解码）
  
 10.[qsbkscrapy1](https://github.com/axianga/python/blob/master/qsbkscrapy1)     (by axiang in 2018.11.6)
 
-    --接触scrapy爬虫框架，使用基础爬虫模板basic，爬取糗事百科的段子及相关网页。
+    --接触scrapy爬虫框架，使用基础爬虫模板basic，爬取糗事百科的段子及相关网页。（scrapy，basic）
  
 11.[qsbkscrapy2](https://github.com/axianga/python/blob/master/qsbkscrapy2)     (by axiang in 2018.11.6)
 
