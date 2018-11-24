@@ -58,8 +58,8 @@
     --通过对抓包工具FIddler的使用，对js文件进行抓取评论URL地址，打开URL发现文字评论段是Unicode编码，
     --在python中对Unicode 解读，证实是评论内容。页面关系也有相应的URL对应。 
  
-10.[qsbkscrapy1](https://github.com/axianga/python/blob/master/qsbkscrapy1)                      （scrapy，basic,qsbk）    
-(by axianga in 2018.11.6)
+10.[qsbkscrapy1](https://github.com/axianga/python/blob/master/qsbkscrapy1)                      （scrapy，basic,qsbk）
+by axianga in 2018.11.6)
 
     --接触scrapy爬虫框架，使用基础爬虫模板basic，爬取糗事百科的段子及相关网页。
  
@@ -109,7 +109,7 @@
     --代理ip需要购买，较为可靠，免费的IP效率低。
 
 
-19.[jdmysql1_scrapy_crawl](https://github.com/axianga/python/blob/master/jdmysql1_scrapy_crawl)      （scrapy,crawl,pymysql）     
+19.[jdmysql1_scrapy_crawl](https://github.com/axianga/python/blob/master/jdmysql1_scrapy_crawl)      （scrapy,crawl,pymysql） 
 (by axianga in 2018.11.20)   
 
     --运用scrapy爬虫框架，crawl爬虫模板，爬取jd商城商品页面。爬取商品名字信息、店铺、价格、好评率，
