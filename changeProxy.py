@@ -1,6 +1,6 @@
 #scrapy爬虫框架
 #代理IP更换，合理优化，此段功能放在middlewares.py中，并在settings.py中开启DOWNLOADER_MIDDLEWARES，将类名称换为此名称。
-impore requests
+import requests
 import json
 class ChangeProxy(object):         					# 程序运行：__init__  到  process_request
 
@@ -31,6 +31,7 @@ class ChangeProxy(object):         					# 程序运行：__init__  到  process_
 		try:
 			self.changeProxy(request)
 			self.yanzheng()
+			print("http://"+str(self.ip_list[self.count-1]["ip"]) + ":" + str(self.ip_list[self.count-1]["port"]))    #查看当前ip
 		except:
 			if self.count == m:
 				self.getIPData()
@@ -50,4 +51,4 @@ class ChangeProxy(object):         					# 程序运行：__init__  到  process_
 		else:
 			self.evecount = self.evecount + 1
 
-		self.ifUsed(request）			
+		self.ifUsed(request)			
