@@ -6,15 +6,15 @@ class ChangeProxy(object):         					# 程序运行：__init__  到  process_
 
 	def __init__(self):								#初始化
 		self.get_url = "获取代理IP地址"			   	#访问代理IP获取地址，此处获得的是json格式，m个代理IP
-		self.temp_url = "http://up.chinaz.com/getip.aspx"    #访问网址，IP查询
+		self.temp_url = "http://ip.chinaz.com/"    		#访问网址，IP查询，用作验证IP是否有效,可更换
 		self.ip_list = []
 		self.count = 0								#计算使用IP的个数（第几个ip）
 		self.evecount = 0							#每个IP的访问次数
 
 	def getIPData(self):                      		#从代理IP处获得是个代理IP，先清空slef.ip_list,再存入self.ip_list的IP和port中。
-		temp_data = requests.get(url=self.get_url).text()
+		temp_data = requests.get(url=self.get_url).text
 		self.ip_list.clear()		#清空IP存储。
-		for eve_ip in json.loads(temp_data)["result"]:	    #json.loads(temp_data)["result"]:处理json文件，获取result里面的内容。
+		for eve_ip in json.loads(temp_data)["data"]:	    #json.loads(temp_data)["result"]:处理json文件，获取result里面的内容。
 			self.ip_list.append({
 				"ip":eve_ip["ip"],					#获取ip、port 键的值。
 				"port":eve_ip["port"] 
