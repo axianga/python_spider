@@ -58,38 +58,38 @@
     --通过对抓包工具FIddler的使用，对js文件进行抓取评论URL地址，打开URL发现文字评论段是Unicode编码，
     --在python中对Unicode 解读，证实是评论内容。页面关系也有相应的URL对应。 
  
-10.[qsbkscrapy1](https://github.com/axianga/python/blob/master/qsbkscrapy1)                      （scrapy，basic,qsbk）
+10.[qsbkscrapy1](https://github.com/axianga/python/blob/master/qsbkscrapy1)                      （scrapy，basic,qsbk）    
 (by axianga in 2018.11.6)
 
     --接触scrapy爬虫框架，使用基础爬虫模板basic，爬取糗事百科的段子及相关网页。
  
-11.[qsbkscrapy2](https://github.com/axianga/python/blob/master/qsbkscrapy2)                       (scrapy,crawl,qsbk)
+11.[qsbkscrapy2](https://github.com/axianga/python/blob/master/qsbkscrapy2)                       （scrapy,crawl,qsbk）
 (by axianga in 2018.11.6)
 
     --接触scrapy爬虫框架，使用基础爬虫模板crawl，爬取糗事百科的段子及相关网页。
  
-12.[tszn1scrapy](https://github.com/axianga/python/blob/master/tszn1scrapy)                       (scrapy,basic,txt)
+12.[tszn1scrapy](https://github.com/axianga/python/blob/master/tszn1scrapy)                       （scrapy,basic,txt） 
 (by axianga in 2018.11.8)
 
     --接触scrapy爬虫框架，使用基础爬虫模板basic,爬取天善智能课程信息，并保存到txt文件中。
  
-13.[dblogin](https://github.com/axianga/python/blob/master/dblogin)                               (scrapy,basic,db登陆请求）
+13.[dblogin](https://github.com/axianga/python/blob/master/dblogin)                               （scrapy,basic,db登陆请求）
 (by axianga in 2018.11.11)
 
     --豆瓣模拟登陆scrapy爬虫框架，basic爬虫模板，半自动登陆验证码,爬取登陆后的信息
  
-14.[dangdang1](https://github.com/axianga/python/blob/master/dangdang1)                          （scrapy,basic,dd)
+14.[dangdang1](https://github.com/axianga/python/blob/master/dangdang1)                          （scrapy,basic,dd）
 (by axianga in 2018.11.12)
 
     --当当商城爬取商品信息，运用scrapy爬虫框架，basic爬虫模板，打印输出。
  
-15.[dangdang](https://github.com/axianga/python/blob/master/dangdang)                             (scrapy,basic,pymysql)
+15.[dangdang](https://github.com/axianga/python/blob/master/dangdang)                             （scrapy,basic,pymysql）
 (by axianga in 2018.11.16)
 
     --当当商城爬取商品信息，scrapy爬虫框架，basic爬虫模板，运用pymysql，将爬取到的数据保存到mysql数据库中，
     --数据库集成环境运用phpstudy，可视化操作采用navicat for mysql。
 
-16.[qsbk_threading.py](https://github.com/axianga/python/blob/master/qsbk_threading.py)            (多线程threading，txt）
+16.[qsbk_threading.py](https://github.com/axianga/python/blob/master/qsbk_threading.py)            （多线程threading，txt）
 (by axianga in 2018.11.18)
 
     --爬取糗事百科的段子,多线程爬取,分成两个线程,一个线程爬取偶数页，一个线程爬取奇数页，运用多线程库/threading/
@@ -109,7 +109,7 @@
     --代理ip需要购买，较为可靠，免费的IP效率低。
 
 
-19.[jdmysql1_scrapy_crawl](https://github.com/axianga/python/blob/master/jdmysql1_scrapy_crawl)    （scrapy,crawl,pymysql) 
+19.[jdmysql1_scrapy_crawl](https://github.com/axianga/python/blob/master/jdmysql1_scrapy_crawl)      （scrapy,crawl,pymysql）     
 (by axianga in 2018.11.20)   
 
     --运用scrapy爬虫框架，crawl爬虫模板，爬取jd商城商品页面。爬取商品名字信息、店铺、价格、好评率，
