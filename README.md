@@ -1,8 +1,8 @@
 # python爬虫学习系列  
 
-**目前接触库：/requests/BeautifulSoup/re/os/traceback/urllib/**
-**--/scrapy/pymysql/threading/**             **/chardet:查看文件编码** 
-**/selenium/splash**
+**目前接触库：/requests/BeautifulSoup/re/os/traceback/urllib/scrapy/pymysql/threading/**             
+**/chardet:查看文件编码** 
+**/selenium/splash/**
 
 **learning** **/scrapy-redis/**  **验证码处理**
 
