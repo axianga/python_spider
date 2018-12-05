@@ -127,6 +127,13 @@ by axianga in 2018.11.6)
 
     --对zhihu的用户信息爬取,抓取xhr存储的用户信息api，保存到mysql数据库中。
     --（无代理IP设置，爬到一定程度可能会被ban）
+   
+
+21.[mt](https://github.com/axianga/python/blob/master/mt/)                (mt,模仿头，信息处理，入库）
+(by axianga in 2018.12.5)   
+
+    --对mt信息爬取，保存到mysql数据库中。
+    --（无代理IP设置，爬到一定程度可能会被ban）
     
     
     
