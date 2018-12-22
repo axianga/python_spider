@@ -135,11 +135,13 @@ by axianga in 2018.11.6)
     --对mt信息爬取，保存到mysql数据库中。
     --（无代理IP设置，爬到一定程度可能会被ban）
     
-21.[mongodb_learn](https://github.com/axianga/python/blob/master/mongodb_learn/)                (mongodb 连接、存储数据）
+22.[mongodb_learn](https://github.com/axianga/python/blob/master/mongodb_learn/)                (mongodb 连接、存储数据）
 (by axianga in 2018.12.14)   
+
     --mongodb连接、存储数据操作。及mongodv操作
 
-21.[selenium_learn](https://github.com/axianga/python/blob/master/selenium_learn/)                (selenium test）
+23.[selenium_learn](https://github.com/axianga/python/blob/master/selenium_learn/)                (selenium test）
 (by axianga in 2018.12.14)   
+
     --selenium 测试操作
     
